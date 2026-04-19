@@ -32,7 +32,7 @@ Use a web browser to reach the ustp.at webpage and while capturing packages. Fin
 Find another person to work with and determine their IP address!
 
 Start Wireshark to record packages on your network card.
-Depending on your operating system use `nc` (Linux, MacOS) or `ncat` (Windows) to open a server and listen on port 4444.
+Depending on your operating system use `nc` (Linux, macOS) or `ncat` (Windows) to open a server and listen on port 4444.
 Have the other person connect to your IP address using `nc` or `ncat` to send a message to you. Grab a screenshot of the Package containing the sent message in which you highlight the data part.
 
 ## Bonus Exercise (ncat chat)
