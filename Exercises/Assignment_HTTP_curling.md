@@ -142,4 +142,10 @@ Answer the following questions:
 
 ## BONUS
 
+### Bonus 1
+
 Use any of your applications from another class and debug it using `curl`. Can you write a short script in a language you like (bash, PowerShell, ...) that automatically checks if your backend application works correctly? How could this approach help you during your project work so that you do not need to manually test your application after every change?
+
+### Bonus 2
+
+Write a local UI on your computer to hook into the `/messages` or the `/books` api. How did you implement this?
